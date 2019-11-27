@@ -1,0 +1,4 @@
+ipinfo
+tkinter
+bs4
+urllib.request
